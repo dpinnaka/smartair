@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "buzzcoder-8695d",
-  "private_key_id": "dca3bf917bdbfeea7236584d59cf0c657b0557a2",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9zTec3ROQVwjw\nbax8N6V8J9iPZ6M165sj10oAfk68yNgZDMxK0o17TFXvHOWMqXZe9zIPFNJLE2qC\n4Sd6qNSvcxcrH5ehLQmUeRGahwyrWibhJMgmFLdNIKRexh+kork6r0htWAgc1+SL\nhNNy0EuIQp1w4NPEmFkLDHuCRJ33fucHjjsftLbJ2ONiG6LOoo7kZRBwUNN5v/gg\nL9B4ibhJ8pGvTLgyCfIC6l+fDi6JlDtOIMCEuhoHVMFpg+yhIl1W5JiUdizDifKo\nXSikgG24MjDmu8qpuaVq1Jl4TtFJEa+Z1wWSYbijopeaq8p3TiAfst0AAOMHzShi\nqvj4hTvTAgMBAAECggEAVic0uytOmhInqJrf1HKd10Fu94kfeHY9sYMjwB2VN/Qi\nwxwgD0aLmhAIYcVIHRU++dRTEK1u100057uz4+WGxS0Eszpf5XVAB/j8mJv8kDsX\nstKzVzXIDmZmte5QpraGRbESuy9eX1lQEFR2doM+BdfXB0nGVlKg+HbuCS+EVLao\ntCxedm7MrLyw8DC1xyqFl8txl9onys/ziHd0D/HxRm6JShL5Qm3xgcWCeGuIHod2\nle8Ot5ERoN3T579ICelAIY3r/C5vJPPxpy3StW85jWzzuN/Y+JkpHmvocrNjbbgX\n0+p7QuXI9dv4grDatEKGZr9A2dJgiQVA1UOScihDYQKBgQDyvaUrhi3hgxJySd12\nd9AQcoWabuhZkKiEbE35mQnKr/VTVckgyvmHqfelBSsanKhlvWHFYcGd/EMxHShD\nORpTwRrJnLZbwmf4aaqtYJHu2W9wC6H/KnU0oNby+DmWVQvJ6M+MFM4C4gchv1jG\nT1aDnAawUm8s2/FccZN2g9dg9QKBgQDIK0yw+40SPh+U4vFTRaSRW3R2xNOi7wyF\nFRmZZlC5cr/NRD0Zk4t58XuOYtQH01CCqf97rpcPArVodTl7aF1Rm3NKoTC6XBWz\nYGa8XVprNZZN1apsG81tYoIMimBs0mV5o6dFVB+R21AW0+llY9oN0nxdetZLmsCf\nEU7LaqOMpwKBgHMxtnmCMrHLXuynyxZWY4H6pxaTvWYLtT0qnJJvouryN+z1T/5k\n9KgB7Aj+++akI3IsvoJKEvUjasua96l3JtxKTqkQ2qWPC4IiuyGOK5L60tyMWLNb\n9cUk8vzY+ZMzBuYpupzSnrVViGbmhH2P1xGb8LyqUiIquk7Rg1aB2KslAoGAbzZ/\neaWJj6UsbtBYPGfpM0mYv5RD8bbXQemjO3N5Tk/O+QD84YT0bWAZwdZu75oclTxW\nUiWCkDh1CgB3W3V0w66Ws9Qy+pfHBs58xhMn9YDkbYJVGZOo4ylkEAuh31RWROsE\nOKSwlZ1ANi6u8kI0GJHlvxpMjd0BQF+hY6twCukCgYEAw2/QeXBa35Xmpa/ECWuO\nW9HLeoUZYUP+2xnE8NJ0gUekX3dsO/JpT1pgftNLxKgwGHPyf15qfswclcrHVg6Z\nUC099o9nFPXWIcD761ckwS3wvhW7xIJorjQf7XM+HvZpTmfLEp/+ahU9K1OSl0H4\nVdNjCOlt0YFPp0eKHsgD0Fo=\n-----END PRIVATE KEY-----\n",
-  "client_email": "dialogflow-qvhixx@buzzcoder-8695d.iam.gserviceaccount.com",
-  "client_id": "114299889359571022719",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-qvhixx%40buzzcoder-8695d.iam.gserviceaccount.com"
-}
+PRIVATE CREDENTIALS AVAILABLE ONLY AT DEMO TABLE
